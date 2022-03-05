@@ -5,4 +5,4 @@
 - 고급자 레벨: 엄청 빠르게 달리고 점프와 턴을 할 수 있다. run(), jump(), turn() 가능.
 - Player는 한 번에 하나의 레벨 상태만 가질 수 있다.
 
-![png_1](./images/reademe_img.png)
+![png_1](./images/readme_img.png)
